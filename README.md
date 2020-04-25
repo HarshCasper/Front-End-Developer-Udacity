@@ -16,3 +16,14 @@ These Projects have been developed for the fulfillment of Udacity's [Front End D
 * [Weather Journal App](https://github.com/HarshCasper/Front-End-Developer-Udacity/tree/master/Weather%20Journal%20App)
 * [Evaluate a News Article with Natural Language Processing](https://github.com/HarshCasper/Front-End-Developer-Udacity/tree/master/Evaluate%20a%20News%20Article%20with%20Natural%20Language%20Processing)
 * [FEND Capstone-Travel App](https://github.com/HarshCasper/Front-End-Developer-Udacity/tree/master/FEND%20Captsone-Travel%20App)
+
+## 🏁 Things Learnt and Implemented
+
+* Working with Webpacks.
+* Working with Node.js and Express.
+* Working with a variety of APIs and Interfaces.
+* Learnt implementing lucid User-Interface Flow using Vanilla Javascript.
+
+## 📜 Certificate
+
+![image](https://nimbus-screenshots.s3.amazonaws.com/s/3d2d50c1038ef7c320f35f4177483fb9.png)
